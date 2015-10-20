@@ -1,6 +1,8 @@
 # Swift Drawing App 
 
-**Description**: a simple drawing app. **Feature list**:
+**Description**: a simple drawing app. 
+
+**Feature list**:
 
 -   Draw at the canvas
 -   Add and remove colors from palette
