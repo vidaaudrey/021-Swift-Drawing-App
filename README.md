@@ -9,4 +9,4 @@
 
 [![snapshot][]][snapshot]
 
-[snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot1.gif
+[snapshot]: https://github.com/vidaaudrey/021-Swift-Drawing-App/blob/master/_snapshot/snapshot.gif
